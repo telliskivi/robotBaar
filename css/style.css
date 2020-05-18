@@ -4,6 +4,7 @@ body {
   padding: 0;
   font-family: 'Open Sans', sans-serif;
   color: #333;
+  text-align: justify;
 }
 
 header {
@@ -49,6 +50,8 @@ header {
   font-size: 1.4em;
   font-style: lucida console;
   font-family: monospace;
+  
+
 }
 
 nav {

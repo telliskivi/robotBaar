@@ -11,6 +11,12 @@ header {
   background: #111;
 }
 
+br {
+  display: block;
+  margin-top: 8px;
+  content:" ";
+}
+
 .headline {
   position: relative;
   height: 400px;
